@@ -4,4 +4,4 @@
 
 ## Run the app
 - flask run
-- get url and test routes (/ or /index) (/profile/xxxx) (/json)
+- get url and test routes (/ or /index), (/profile/xxxx),  (/json)
